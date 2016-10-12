@@ -1,2 +1,2 @@
 # Hello-world
-Sample code
+Sample page for commit
